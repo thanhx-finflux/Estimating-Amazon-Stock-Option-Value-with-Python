@@ -43,6 +43,15 @@ Histogram of Simulated Ending Prices:
 
 <img width="866" height="545" alt="Image" src="https://github.com/user-attachments/assets/c752cbf5-5c6e-4dcb-9f4b-9737ee153d1b" />
 
+## Technology requirements
+    Python 3.8+
+    numpy
+    pandas
+    plotly
+    matplotlib
+    seaborn
+    Jupyter Notebook
+
 ## Contact
 
 - Thanh Xuyen Nguyen  
